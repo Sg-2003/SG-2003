@@ -112,14 +112,31 @@ Here are some of my key projects:
 
 ### 📊 GitHub Analytics
 
+Here is a visual summary of my GitHub contributions, stats, and activity:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sg-2003&show_icons=true&theme=tokyonight&count_private=true" alt="Sukumar's GitHub Stats" height="195px" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sg-2003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sukumar's Top Languages" height="195px" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sg-2003&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="Sukumar's GitHub Trophies" width="100%" />
+  </a>
+</p>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top" width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sg-2003&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sukumar's GitHub Stats" width="100%" />
+    </td>
+    <td valign="top" width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sg-2003&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Sukumar's Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sg-2003&theme=tokyo-night&area=true&hide_border=true" alt="Sukumar's Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sg-2003&theme=tokyonight" alt="Sukumar's Streak Stats" width="82%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sg-2003&theme=tokyonight&hide_border=true" alt="Sukumar's Streak Stats" width="100%" />
 </p>
 
 ---
