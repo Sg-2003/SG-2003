@@ -118,13 +118,19 @@ Here is a visual summary of my GitHub contributions, stats, and activity:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sg-2003&theme=tokyonight" alt="Sukumar's Profile Details" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sg-2003&theme=tokyonight" alt="Sukumar's Stats" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sg-2003&theme=tokyonight" alt="Sukumar's Repos per Language" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sg-2003&theme=tokyonight" alt="Sukumar's Most Commit Language" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top" width="33%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sg-2003&theme=tokyonight" alt="Sukumar's Stats" width="98%" />
+    </td>
+    <td valign="top" width="33%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sg-2003&theme=tokyonight" alt="Sukumar's Repos per Language" width="98%" />
+    </td>
+    <td valign="top" width="33%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sg-2003&theme=tokyonight" alt="Sukumar's Most Commit Language" width="98%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sg-2003&theme=tokyo-night&area=true&hide_border=true" alt="Sukumar's Activity Graph" width="100%" />
