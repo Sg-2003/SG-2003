@@ -34,18 +34,18 @@
 
 ### 💫 About Me
 
-I am a Software Web Developer and Information Technology student currently pursuing my **B.Tech (2nd Year)** at the **University College of Engineering and Technology (UCET), Hazaribagh**. 
+I am a Software Web Developer and Information Technology student currently pursuing my **B.Tech (3rd Year)** at the **University College of Engineering and Technology (UCET), Hazaribagh**. 
 
-I enjoy building full-featured web applications and solving algorithmic problems. Currently focusing on MERN stack and exploring mobile app development with React Native.
+I enjoy building high-performance, full-featured web applications and solving algorithmic problems. Currently focusing on the **MERN Stack** and exploring cross-platform mobile development with **React Native**.
 
-- 🔭 **Current Projects:** 
+- 🔭 **Current Projects & Focus:**
+  - [UberDemo](https://github.com/Sg-2003/UberDemo) — A high-performance Uber clone featuring real-time GPS tracking and WebSocket-based communication.
   - [ai-agent-n8n](https://github.com/Sg-2003/ai-agent-n8n) — An automated AI Agent built with n8n, Google Gemini, and Google Sheets for feedback analysis and email reporting.
   - [EMS-2026](https://github.com/Sg-2003/EMS-2026) — A modern Employee Management System (MERN Stack) with attendance tracking, leaves, and payslip generation.
-  - [HomelyHub Web](https://github.com/Sg-2003/HomelyHub-Web) — A clean rental accommodation portal for students and professionals.
 - 🌱 **Learning:** React Native for cross-platform mobile app development.
 - 👨‍💻 **Portfolio Website:** Check out my work at [sg-2003.github.io/PORTFOLIO/](https://sg-2003.github.io/PORTFOLIO/)
 - 📄 **Resume / Experience:** Explore my credentials [here](https://github.com/Sg-2003/PORTFOLIO/blob/main/img/SG-RESUME.pdf)
-- 💬 **Ask me about:** MERN Stack, Socket.io, or basic Data Structures.
+- 💬 **Ask me about:** MERN Stack, Socket.io, Leaflet Maps, or basic Data Structures.
 - 📫 **Reach me:** [sgsukumar321@gmail.com](mailto:sgsukumar321@gmail.com)
 - ⚡ **Fun Fact:** I think I'm funny. Compiler disagrees. 😅
 
@@ -57,41 +57,42 @@ I enjoy building full-featured web applications and solving algorithmic problems
   <tr>
     <td valign="top" width="50%">
       <h4>💻 Languages & Core</h4>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     </td>
     <td valign="top" width="50%">
       <h4>🌐 Frontend & App Development</h4>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <h4>⚙️ Backend & Databases</h4>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     </td>
     <td valign="top" width="50%">
       <h4>🔧 Tools & Utilities</h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     </td>
   </tr>
 </table>
@@ -104,11 +105,13 @@ Here are some of my key projects:
 
 | Project Name | Description | Tech Stack | Live Demo / Repo |
 | :--- | :--- | :--- | :--- |
-| **ai-agent-n8n** | Automated AI Agent that parses Google Sheets feedback, runs analysis via Gemini, and sends automated email reports. | n8n, Google Gemini, Google Sheets, Email Automation, Docker | [Repo](https://github.com/Sg-2003/ai-agent-n8n) |
-| **EMS-2026** | A modern Employee Management System covering attendance, leave, payslips, and profiles. | React, Node.js, Express, MongoDB, Tailwind | [Live Demo](https://employee-management-system-2026.vercel.app) / [Repo](https://github.com/Sg-2003/EMS-2026) |
-| **HomelyHub Web** | A clean rental accommodation portal for students and professionals. | React, Tailwind, Express, MongoDB | [Live Demo](https://homelyhub-frontend-tau.vercel.app) / [Repo](https://github.com/Sg-2003/HomelyHub-Web) |
-| **Chat-App-Socket.io** | Real-time chat application with instant messaging and active status. | React, Node.js, Socket.io, Express | [Live Demo](https://chat-app-socket-io-iota.vercel.app) / [Repo](https://github.com/Sg-2003/Chat-App-Socket.io) |
-| **Django Tweet App** | A full-featured microblogging social application using Django. | Python, Django, SQLite, Bootstrap | [Live Demo](https://django-tweet-app.vercel.app) / [Repo](https://github.com/Sg-2003/Django-Tweet-App) |
+| **🚗 Uber MERN Clone** | High-performance Uber clone featuring real-time GPS tracking (Leaflet.js & OpenStreetMap), dynamic path retraction, and socket-based real-time communication. | React, Node.js, Express, MongoDB, Socket.io, Leaflet | [Repo](https://github.com/Sg-2003/UberDemo) |
+| **🤖 ai-agent-n8n** | Automated AI Agent that parses Google Sheets feedback, runs analysis via Gemini, and sends automated email reports. | n8n, Google Gemini, Google Sheets, Email Automation, Docker | [Repo](https://github.com/Sg-2003/ai-agent-n8n) |
+| **💼 EMS-2026** | A modern Employee Management System covering attendance, leave, payslips, and profiles. | React, Node.js, Express, MongoDB, Tailwind CSS | [Live Demo](https://employee-management-system-2026.vercel.app) / [Repo](https://github.com/Sg-2003/EMS-2026) |
+| **🍕 Food-del** | Full-stack food delivery application with cart management, Stripe integration, order history, and an admin portal. | React, Node.js, Express, MongoDB, Stripe, Tailwind CSS | [Repo](https://github.com/Sg-2003/Food-del) |
+| **🏠 HomelyHub Web** | Clean rental accommodation portal with interactive maps (Leaflet & OpenStreetMap geocoding) for students and professionals. | React, Tailwind CSS, Express, MongoDB, Leaflet | [Live Demo](https://homelyhub-frontend-tau.vercel.app) / [Repo](https://github.com/Sg-2003/HomelyHub-Web) |
+| **💬 Chat-App-Socket.io** | Real-time chat application with instant messaging and active user presence tracking. | React, Node.js, Socket.io, Express | [Live Demo](https://chat-app-socket-io-iota.vercel.app) / [Repo](https://github.com/Sg-2003/Chat-App-Socket.io) |
+| **🐦 Django Tweet App** | Responsive Twitter-like social application with media upload, tweet creation, and real-time search. | Python, Django, SQLite, Bootstrap | [Live Demo](https://django-tweet-app.vercel.app) / [Repo](https://github.com/Sg-2003/Django-Tweet-App) |
 
 ---
 
@@ -116,28 +119,24 @@ Here are some of my key projects:
 
 Here is a visual summary of my GitHub contributions, stats, and activity:
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sg-2003&theme=tokyonight" alt="Sukumar's Profile Details" />
-</p>
-
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td valign="top" width="33%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sg-2003&theme=tokyonight" alt="Sukumar's Stats" width="98%" />
+    <td valign="top" width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sg-2003&show_icons=true&theme=tokyonight" alt="Sukumar's Stats" width="98%" />
     </td>
-    <td valign="top" width="33%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sg-2003&theme=tokyonight" alt="Sukumar's Repos per Language" width="98%" />
-    </td>
-    <td valign="top" width="33%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sg-2003&theme=tokyonight" alt="Sukumar's Most Commit Language" width="98%" />
+    <td valign="top" width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sg-2003&layout=compact&theme=tokyonight" alt="Sukumar's Top Langs" width="98%" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sg-2003&theme=tokyo-night&area=true&hide_border=true" alt="Sukumar's Activity Graph" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sg-2003&theme=tokyonight" alt="Sukumar's Streak Stats" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sg-2003&theme=tokyo-night&area=true&hide_border=true" alt="Sukumar's Activity Graph" width="100%" />
+</p>
 
 ---
 
