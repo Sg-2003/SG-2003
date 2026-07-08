@@ -121,21 +121,21 @@ Here is a visual summary of my GitHub contributions, stats, and activity:
 
 <div align="center">
 
-![Sukumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sg-2003&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=43200)
+[![Sukumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sg-2003&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&cache_seconds=86400)](https://github.com/Sg-2003)
 
-![Sukumar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sg-2003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=43200)
-
-</div>
-
-<div align="center">
-
-![Sukumar's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sg-2003&theme=tokyonight&hide_border=true)
+[![Sukumar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sg-2003&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400)](https://github.com/Sg-2003)
 
 </div>
 
 <div align="center">
 
-![Sukumar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sg-2003&theme=tokyo-night&area=true&hide_border=true&custom_title=Sukumar's%20GitHub%20Activity)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sg-2003&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=79c0ff&fire=ff7b72&currStreakLabel=79c0ff)](https://github.com/Sg-2003)
+
+</div>
+
+<div align="center">
+
+[![Sukumar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sg-2003&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=79c0ff&point=58a6ff&area=true)](https://github.com/Sg-2003)
 
 </div>
 
