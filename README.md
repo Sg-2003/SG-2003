@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Abstract%20Technology%20Profile%20LinkedIn%20Banner%20(3).png" alt="Sukumar Gope Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Sg-2003/SG-2003/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner%20(3).png" alt="Sukumar Gope Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sukumar Gope</h1>
@@ -36,7 +36,7 @@
 
 I am a Software Web Developer and Information Technology student currently pursuing my **B.Tech (3rd Year)** at the **University College of Engineering and Technology (UCET), Hazaribagh**. 
 
-I enjoy building high-performance, full-featured web applications and solving algorithmic problems. Currently focusing on the **MERN Stack** and exploring cross-platform mobile development with **React Native**.
+I enjoy building high-performance, full-featured web applications and solving algorithmic problems. Currently focusing on the **MERN Stack** and exploring cross-platform mobile development.
 
 - 🔭 **Current Projects & Focus:**
   - [UberDemo](https://github.com/Sg-2003/UberDemo) — A high-performance Uber clone featuring real-time GPS tracking and WebSocket-based communication.
@@ -105,13 +105,13 @@ Here are some of my key projects:
 
 | Project Name | Description | Tech Stack | Live Demo / Repo |
 | :--- | :--- | :--- | :--- |
-| **🚗 Uber MERN Clone** | High-performance Uber clone featuring real-time GPS tracking (Leaflet.js & OpenStreetMap), dynamic path retraction, and socket-based real-time communication. | React, Node.js, Express, MongoDB, Socket.io, Leaflet | [Repo](https://github.com/Sg-2003/UberDemo) |
-| **🤖 ai-agent-n8n** | Automated AI Agent that parses Google Sheets feedback, runs analysis via Gemini, and sends automated email reports. | n8n, Google Gemini, Google Sheets, Email Automation, Docker | [Repo](https://github.com/Sg-2003/ai-agent-n8n) |
-| **💼 EMS-2026** | A modern Employee Management System covering attendance, leave, payslips, and profiles. | React, Node.js, Express, MongoDB, Tailwind CSS | [Live Demo](https://employee-management-system-2026.vercel.app) / [Repo](https://github.com/Sg-2003/EMS-2026) |
-| **🍕 Food-del** | Full-stack food delivery application with cart management, Stripe integration, order history, and an admin portal. | React, Node.js, Express, MongoDB, Stripe, Tailwind CSS | [Repo](https://github.com/Sg-2003/Food-del) |
-| **🏠 HomelyHub Web** | Clean rental accommodation portal with interactive maps (Leaflet & OpenStreetMap geocoding) for students and professionals. | React, Tailwind CSS, Express, MongoDB, Leaflet | [Live Demo](https://homelyhub-frontend-tau.vercel.app) / [Repo](https://github.com/Sg-2003/HomelyHub-Web) |
-| **💬 Chat-App-Socket.io** | Real-time chat application with instant messaging and active user presence tracking. | React, Node.js, Socket.io, Express | [Live Demo](https://chat-app-socket-io-iota.vercel.app) / [Repo](https://github.com/Sg-2003/Chat-App-Socket.io) |
-| **🐦 Django Tweet App** | Responsive Twitter-like social application with media upload, tweet creation, and real-time search. | Python, Django, SQLite, Bootstrap | [Live Demo](https://django-tweet-app.vercel.app) / [Repo](https://github.com/Sg-2003/Django-Tweet-App) |
+| **🚗 Uber MERN Clone** | High-performance Uber clone featuring real-time GPS tracking (Leaflet.js & OpenStreetMap), dynamic path retraction, and socket-based real-time communication. | React, Node.js, Express, MongoDB, Leaflet.js | [Repository](https://github.com/Sg-2003/UberDemo) |
+| **🤖 ai-agent-n8n** | Automated AI Agent that parses Google Sheets feedback, runs analysis via Gemini, and sends automated email reports. | n8n, Google Gemini, Google Sheets, Email Automation | [Repository](https://github.com/Sg-2003/ai-agent-n8n) |
+| **💼 EMS-2026** | A modern Employee Management System covering attendance, leave, payslips, and profiles. | React, Node.js, Express, MongoDB, Tailwind CSS | [Repository](https://github.com/Sg-2003/EMS-2026) |
+| **🍕 Food-del** | Full-stack food delivery application with cart management, Stripe integration, order history, and an admin portal. | React, Node.js, Express, MongoDB, Stripe, Tailwind CSS | [Repository](https://github.com/Sg-2003/Food-del) |
+| **🏠 HomelyHub Web** | Clean rental accommodation portal with interactive maps (Leaflet & OpenStreetMap geocoding) for students and professionals. | React, Tailwind CSS, Express, MongoDB, Leaflet.js | [Repository](https://github.com/Sg-2003/HomelyHub-Web) |
+| **💬 Chat-App-Socket.io** | Real-time chat application with instant messaging and active user presence tracking. | React, Node.js, Socket.io, Express | [Repository](https://github.com/Sg-2003/Chat-App-Socket.io) |
+| **🐦 Django Tweet App** | Responsive Twitter-like social application with media upload, tweet creation, and real-time search. | Python, Django, SQLite, Bootstrap | [Repository](https://github.com/Sg-2003/Django-Tweet-App) |
 
 ---
 
@@ -125,7 +125,7 @@ Here is a visual summary of my GitHub contributions, stats, and activity:
       <img src="https://github-readme-stats.vercel.app/api?username=sg-2003&show_icons=true&theme=tokyonight" alt="Sukumar's Stats" width="98%" />
     </td>
     <td valign="top" width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sg-2003&layout=compact&theme=tokyonight" alt="Sukumar's Top Langs" width="98%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sg-2003&layout=compact&theme=tokyonight" alt="Sukumar's Top Languages" width="98%" />
     </td>
   </tr>
 </table>
