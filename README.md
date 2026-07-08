@@ -122,20 +122,20 @@ Here is a visual summary of my GitHub contributions, stats, and activity:
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sg-2003&show_icons=true&theme=tokyonight" alt="Sukumar's Stats" width="98%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sg-2003&show_icons=true&theme=tokyonight&cache_seconds=43200" alt="Sukumar's GitHub Stats" width="98%" />
     </td>
     <td valign="top" width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sg-2003&layout=compact&theme=tokyonight" alt="Sukumar's Top Languages" width="98%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sg-2003&layout=compact&theme=tokyonight&cache_seconds=43200" alt="Sukumar's Top Languages" width="98%" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sg-2003&theme=tokyonight" alt="Sukumar's Streak Stats" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sg-2003&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Sukumar's GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sg-2003&theme=tokyo-night&area=true&hide_border=true" alt="Sukumar's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sg-2003&theme=tokyo-night&area=true&hide_border=true&custom_title=Sukumar's%20GitHub%20Activity" alt="Sukumar's GitHub Activity Graph" width="100%" />
 </p>
 
 ---
