@@ -39,6 +39,7 @@ I am a Software Web Developer and Information Technology student currently pursu
 I enjoy building full-featured web applications and solving algorithmic problems. Currently focusing on MERN stack and exploring mobile app development with React Native.
 
 - 🔭 **Current Projects:** 
+  - [ai-agent-n8n](https://github.com/Sg-2003/ai-agent-n8n) — An automated AI Agent built with n8n, Google Gemini, and Google Sheets for feedback analysis and email reporting.
   - [EMS-2026](https://github.com/Sg-2003/EMS-2026) — A modern Employee Management System (MERN Stack) with attendance tracking, leaves, and payslip generation.
   - [HomelyHub Web](https://github.com/Sg-2003/HomelyHub-Web) — A clean rental accommodation portal for students and professionals.
 - 🌱 **Learning:** React Native for cross-platform mobile app development.
@@ -103,6 +104,7 @@ Here are some of my key projects:
 
 | Project Name | Description | Tech Stack | Live Demo / Repo |
 | :--- | :--- | :--- | :--- |
+| **ai-agent-n8n** | Automated AI Agent that parses Google Sheets feedback, runs analysis via Gemini, and sends automated email reports. | n8n, Google Gemini, Google Sheets, Email Automation, Docker | [Repo](https://github.com/Sg-2003/ai-agent-n8n) |
 | **EMS-2026** | A modern Employee Management System covering attendance, leave, payslips, and profiles. | React, Node.js, Express, MongoDB, Tailwind | [Live Demo](https://employee-management-system-2026.vercel.app) / [Repo](https://github.com/Sg-2003/EMS-2026) |
 | **HomelyHub Web** | A clean rental accommodation portal for students and professionals. | React, Tailwind, Express, MongoDB | [Live Demo](https://homelyhub-frontend-tau.vercel.app) / [Repo](https://github.com/Sg-2003/HomelyHub-Web) |
 | **Chat-App-Socket.io** | Real-time chat application with instant messaging and active status. | React, Node.js, Socket.io, Express | [Live Demo](https://chat-app-socket-io-iota.vercel.app) / [Repo](https://github.com/Sg-2003/Chat-App-Socket.io) |
