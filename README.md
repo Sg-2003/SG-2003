@@ -117,25 +117,40 @@ Here are some of my key projects:
 
 ### 📊 GitHub Analytics
 
-Here is a visual summary of my GitHub contributions, stats, and activity:
+Here is a summary of my GitHub contributions, stats, and activity:
 
 <div align="center">
 
-[![Sukumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sg-2003&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&cache_seconds=86400)](https://github.com/Sg-2003)
+#### 📈 GitHub Statistics
 
-[![Sukumar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sg-2003&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400)](https://github.com/Sg-2003)
+| Metric | Value |
+|--------|-------|
+| **Total Contributions** | 244+ |
+| **Public Repositories** | 25+ |
+| **Current Streak** | 🔥 Active |
+| **Most Used Language** | JavaScript |
+| **Profile Views** | [View Profile](https://github.com/Sg-2003) |
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sg-2003&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=79c0ff&fire=ff7b72&currStreakLabel=79c0ff)](https://github.com/Sg-2003)
+#### 🎯 Quick Stats
+
+- 🚀 **Active Developer** - Contributing regularly to open-source and personal projects
+- 💻 **Full Stack Focus** - MERN Stack specialization with strong DevOps knowledge
+- 🏆 **Problem Solver** - 200+ DSA problems solved on LeetCode & GeeksforGeeks
+- 📚 **Continuous Learner** - Always exploring new technologies and best practices
 
 </div>
 
 <div align="center">
 
-[![Sukumar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sg-2003&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=79c0ff&point=58a6ff&area=true)](https://github.com/Sg-2003)
+#### 📊 Detailed Statistics
+
+For detailed GitHub statistics and contribution graphs, visit:
+
+**[View My GitHub Profile](https://github.com/Sg-2003?tab=repositories)** | **[View Contributions](https://github.com/Sg-2003?tab=contributions)**
 
 </div>
 
