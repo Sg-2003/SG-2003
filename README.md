@@ -44,7 +44,7 @@ I enjoy building high-performance, full-featured web applications and solving al
   - [EMS-2026](https://github.com/Sg-2003/EMS-2026) — A modern Employee Management System (MERN Stack) with attendance tracking, leaves, and payslip generation.
 - 🌱 **Learning:** React Native for cross-platform mobile app development.
 - 👨‍💻 **Portfolio Website:** Check out my work at [sg-2003.github.io/PORTFOLIO/](https://sg-2003.github.io/PORTFOLIO/)
-- 📄 **Resume / Experience:** Explore my credentials [here](https://github.com/Sg-2003/PORTFOLIO/blob/main/img/SG-RESUME.pdf)
+- 📄 **Resume / Experience:** Explore my credentials [here](https://sg-2003.github.io/PORTFOLIO/resume.html)
 - 💬 **Ask me about:** MERN Stack, Socket.io, Leaflet Maps, or basic Data Structures.
 - 📫 **Reach me:** [sgsukumar321@gmail.com](mailto:sgsukumar321@gmail.com)
 - ⚡ **Fun Fact:** I think I'm funny. Compiler disagrees. 😅
