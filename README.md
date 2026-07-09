@@ -120,26 +120,25 @@ Here are some of my key projects:
 Here is a visual summary of my GitHub contributions, stats, and activity:
 
 <div align="center">
-
-[![Sukumar's GitHub Stats](https://readme-stats-fast.vercel.app/api?username=sg-2003&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&cache_seconds=86400)](https://github.com/Sg-2003)
-
-[![Sukumar's Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=sg-2003&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400)](https://github.com/Sg-2003)
-
+  <a href="https://github.com/Sg-2003">
+    <img align="top" src="https://readme-stats-fast.vercel.app/api?username=sg-2003&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&cache_seconds=86400" alt="Sukumar's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Sg-2003">
+    <img align="top" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=sg-2003&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" alt="Sukumar's Top Languages" />
+  </a>
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sg-2003&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=79c0ff&fire=ff7b72&currStreakLabel=79c0ff)](https://github.com/Sg-2003)
-
+  <a href="https://github.com/Sg-2003">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sg-2003&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=79c0ff&fire=ff7b72&currStreakLabel=79c0ff" alt="GitHub Streak" />
+  </a>
 </div>
 
 <div align="center">
-
-[![Sukumar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sg-2003&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=79c0ff&point=58a6ff&area=true)](https://github.com/Sg-2003)
-
+  <a href="https://github.com/Sg-2003">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sg-2003&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=79c0ff&point=58a6ff&area=true" alt="Sukumar's Activity Graph" width="100%" />
+  </a>
 </div>
-
-
 
 ---
 
