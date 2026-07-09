@@ -139,11 +139,7 @@ Here is a visual summary of my GitHub contributions, stats, and activity:
 
 </div>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sg-2003&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="Sukumar's GitHub Trophies" width="100%" />
-  </a>
-</div>
+
 
 ---
 
