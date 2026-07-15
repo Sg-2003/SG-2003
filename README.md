@@ -99,17 +99,17 @@ I enjoy building high-performance, full-featured web applications and solving al
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 Here are some of my key projects:
 
 | Project Name | Description | Tech Stack | Live Demo | Repository |
 | :--- | :--- | :--- | :--- | :--- |
-| **🚗 Uber MERN Clone** | High-performance Uber clone featuring real-time GPS tracking (Leaflet.js & OpenStreetMap), dynamic path retraction, and socket-based real-time communication. | React, Node.js, Express, MongoDB, Leaflet.js | [Live Demo](https://frontend-eight-gamma-89.vercel.app) | [Repository](https://github.com/Sg-2003/UberDemo) |
-| **🤖 ai-agent-n8n** | Automated AI Agent that parses Google Sheets feedback, runs analysis via Gemini, and sends automated email reports. | n8n, Google Gemini, Google Sheets, Email Automation | [Live Demo](http://13.232.138.27:5678/workflow/dyhuPjgRsqenUSBA) | [Repository](https://github.com/Sg-2003/ai-agent-n8n) |
-| **💼 EMS-2026** | A modern Employee Management System covering attendance, leave, payslips, and profiles. | React, Node.js, Express, MongoDB, Tailwind CSS | [Live Demo](https://employee-management-system-2026.vercel.app) | [Repository](https://github.com/Sg-2003/EMS-2026) |
-| **🍕 Food-del** | Full-stack food delivery application with cart management, Stripe integration, order history, and an admin portal. | React, Node.js, Express, MongoDB, Stripe, Tailwind CSS | [Live Demo](https://food-del-frontend-mu.vercel.app) | [Repository](https://github.com/Sg-2003/Food-del) |
-| **🏠 HomelyHub Web** | Clean rental accommodation portal with interactive maps (Leaflet & OpenStreetMap geocoding) for students and professionals. | React, Tailwind CSS, Express, MongoDB, Leaflet.js | [Live Demo](https://homelyhub-frontend-tau.vercel.app/) | [Repository](https://github.com/Sg-2003/HomelyHub-Web) |
+| **Uber MERN Clone** | High-performance Uber clone featuring real-time GPS tracking (Leaflet.js & OpenStreetMap), dynamic path retraction, and socket-based real-time communication. | React, Node.js, Express, MongoDB, Leaflet.js | [Live Demo](https://frontend-eight-gamma-89.vercel.app) | [Repository](https://github.com/Sg-2003/UberDemo) |
+| **ai-agent-n8n** | Automated AI Agent that parses Google Sheets feedback, runs analysis via Gemini, and sends automated email reports. | n8n, Google Gemini, Google Sheets, Email Automation | [Live Demo](http://13.232.138.27:5678/workflow/dyhuPjgRsqenUSBA) | [Repository](https://github.com/Sg-2003/ai-agent-n8n) |
+| **EMS-2026** | A modern Employee Management System covering attendance, leave, payslips, and profiles. | React, Node.js, Express, MongoDB, Tailwind CSS | [Live Demo](https://employee-management-system-2026.vercel.app) | [Repository](https://github.com/Sg-2003/EMS-2026) |
+| **Food-del** | Full-stack food delivery application with cart management, Stripe integration, order history, and an admin portal. | React, Node.js, Express, MongoDB, Stripe, Tailwind CSS | [Live Demo](https://food-del-frontend-mu.vercel.app) | [Repository](https://github.com/Sg-2003/Food-del) |
+| **HomelyHub Web** | Clean rental accommodation portal with interactive maps (Leaflet & OpenStreetMap geocoding) for students and professionals. | React, Tailwind CSS, Express, MongoDB, Leaflet.js | [Live Demo](https://homelyhub-frontend-tau.vercel.app/) | [Repository](https://github.com/Sg-2003/HomelyHub-Web) |
 
 ---
 
