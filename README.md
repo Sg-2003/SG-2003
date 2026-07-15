@@ -147,7 +147,7 @@ Here is a visual summary of my GitHub contributions, stats, and activity:
 If you like my work, feel free to support me!
 
 <p align="left">
-  <a href="https://www.buymeacoffee.com/sgsukumar321" target="_blank">
+  <a href="https://buymeacoffee.com/sg2003" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" style="vertical-align: middle;">
   </a>
 </p>
