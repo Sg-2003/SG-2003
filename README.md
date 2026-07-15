@@ -118,8 +118,12 @@ Here are some of my key projects:
 Here is a visual summary of my GitHub contributions, stats, and activity:
 
 <div align="center">
-  <a href="https://github.com/Sg-2003"><img src="https://readme-stats-fast.vercel.app/api?username=sg-2003&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&cache_seconds=86400&rank_icon=github&hide_border=true" alt="Sukumar's GitHub Stats" width="418" height="165" /></a>
-  <a href="https://github.com/Sg-2003"><img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=sg-2003&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400&hide_border=true" alt="Sukumar's Top Languages" width="340" height="165" /></a>
+  <a href="https://github.com/Sg-2003">
+    <img align="top" src="https://readme-stats-fast.vercel.app/api?username=sg-2003&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&cache_seconds=86400&rank_icon=github&hide_border=true" alt="Sukumar's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Sg-2003">
+    <img align="top" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=sg-2003&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400&hide_border=true" alt="Sukumar's Top Languages" />
+  </a>
 </div>
 
 <div align="center">
