@@ -110,8 +110,6 @@ Here are some of my key projects:
 | **💼 EMS-2026** | A modern Employee Management System covering attendance, leave, payslips, and profiles. | React, Node.js, Express, MongoDB, Tailwind CSS | [Live Demo](https://employee-management-system-2026.vercel.app) | [Repository](https://github.com/Sg-2003/EMS-2026) |
 | **🍕 Food-del** | Full-stack food delivery application with cart management, Stripe integration, order history, and an admin portal. | React, Node.js, Express, MongoDB, Stripe, Tailwind CSS | [Live Demo](https://food-del-frontend-mu.vercel.app) | [Repository](https://github.com/Sg-2003/Food-del) |
 | **🏠 HomelyHub Web** | Clean rental accommodation portal with interactive maps (Leaflet & OpenStreetMap geocoding) for students and professionals. | React, Tailwind CSS, Express, MongoDB, Leaflet.js | [Live Demo](https://homelyhub-frontend-tau.vercel.app/) | [Repository](https://github.com/Sg-2003/HomelyHub-Web) |
-| **💬 Chat-App-Socket.io** | Real-time chat application with instant messaging and active user presence tracking. | React, Node.js, Socket.io, Express | [Live Demo](https://chat-app-socket-io-iota.vercel.app/) | [Repository](https://github.com/Sg-2003/Chat-App-Socket.io) |
-| **🐦 Django Tweet App** | Responsive Twitter-like social application with media upload, tweet creation, and real-time search. | Python, Django, SQLite, Bootstrap | [Live Demo](https://django-tweet-app.vercel.app/) | [Repository](https://github.com/Sg-2003/Django-Tweet-App) |
 
 ---
 
