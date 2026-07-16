@@ -103,16 +103,13 @@ I enjoy building high-performance, full-featured web applications and solving al
 
 Here are some of my key projects:
 
-| Project Name | Description | Tech Stack | Live Demo | Repository |
-| :--- | :--- | :--- | :--- | :--- |
-| **AI Interview Coach** | AI-powered tech interview coach featuring mock interviews, interactive coding rounds, resume scanning, real-time voice interaction, and detailed grading sheets. | Next.js, React, Tailwind CSS, Gemini API, MongoDB | [Live Demo](https://ai-interview-coach-rho-liard.vercel.app) | [Repository](https://github.com/Sg-2003/ai-interview-coach) |
-| **PDF AI Chat** | AI-powered PDF assistant that enables users to upload documents and have context-aware, semantic conversations about their contents. | Next.js, React, Tailwind CSS, Gemini API, MongoDB, Vector Embedding (RAG) | [Live Demo](https://pdf-chat-ai-one.vercel.app) | [Repository](https://github.com/Sg-2003/pdf-ai-chat) |
-| **Full-Stack Job Portal** | A clean, premium, and fully-featured Job Portal application with recruiter job/applicant tracking and candidate resume submissions. | React, Node.js, Express, MongoDB, Tailwind CSS | [Live Demo](https://full-stack-job-portal-client-hazel.vercel.app) | [Repository](https://github.com/Sg-2003/Full-Stack-Job-Portal) |
-| **Uber MERN Clone** | High-performance Uber clone featuring real-time GPS tracking (Leaflet.js & OpenStreetMap), dynamic path retraction, and socket-based real-time communication. | React, Node.js, Express, MongoDB, Leaflet.js | [Live Demo](https://frontend-eight-gamma-89.vercel.app) | [Repository](https://github.com/Sg-2003/UberDemo) |
-| **ai-agent-n8n** | Automated AI Agent that parses Google Sheets feedback, runs analysis via Gemini, and sends automated email reports. | n8n, Google Gemini, Google Sheets, Email Automation | [Live Demo](http://13.232.138.27:5678/workflow/dyhuPjgRsqenUSBA) | [Repository](https://github.com/Sg-2003/ai-agent-n8n) |
-| **EMS-2026** | A modern Employee Management System covering attendance, leave, payslips, and profiles. | React, Node.js, Express, MongoDB, Tailwind CSS | [Live Demo](https://employee-management-system-2026.vercel.app) | [Repository](https://github.com/Sg-2003/EMS-2026) |
-| **Food-del** | Full-stack food delivery application with cart management, Stripe integration, order history, and an admin portal. | React, Node.js, Express, MongoDB, Stripe, Tailwind CSS | [Live Demo](https://food-del-frontend-mu.vercel.app) | [Repository](https://github.com/Sg-2003/Food-del) |
-| **HomelyHub Web** | Clean rental accommodation portal with interactive maps (Leaflet & OpenStreetMap geocoding) for students and professionals. | React, Tailwind CSS, Express, MongoDB, Leaflet.js | [Live Demo](https://homelyhub-frontend-tau.vercel.app/) | [Repository](https://github.com/Sg-2003/HomelyHub-Web) |
+| S.No. | Project Name | Description | Tech Stack | Live Demo | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | **AI Interview Coach** | AI-powered tech interview coach featuring mock interviews, interactive coding rounds, resume scanning, real-time voice interaction, and detailed grading sheets. | Next.js, React, Tailwind CSS, Gemini API, MongoDB | [Live Demo](https://ai-interview-coach-rho-liard.vercel.app) | [Repository](https://github.com/Sg-2003/ai-interview-coach) |
+| 2 | **PDF AI Chat** | AI-powered PDF assistant that enables users to upload documents and have context-aware, semantic conversations about their contents. | Next.js, React, Tailwind CSS, Gemini API, MongoDB, Vector Embedding (RAG) | [Live Demo](https://pdf-chat-ai-one.vercel.app) | [Repository](https://github.com/Sg-2003/pdf-ai-chat) |
+| 3 | **Full-Stack Job Portal** | A clean, premium, and fully-featured Job Portal application with recruiter job/applicant tracking and candidate resume submissions. | React, Node.js, Express, MongoDB, Tailwind CSS | [Live Demo](https://full-stack-job-portal-client-hazel.vercel.app) | [Repository](https://github.com/Sg-2003/Full-Stack-Job-Portal) |
+| 4 | **Uber MERN Clone** | High-performance Uber clone featuring real-time GPS tracking (Leaflet.js & OpenStreetMap), dynamic path retraction, and socket-based real-time communication. | React, Node.js, Express, MongoDB, Leaflet.js | [Live Demo](https://frontend-eight-gamma-89.vercel.app) | [Repository](https://github.com/Sg-2003/UberDemo) |
+| 5 | **EMS-2026** | A modern Employee Management System covering attendance, leave, payslips, and profiles. | React, Node.js, Express, MongoDB, Tailwind CSS | [Live Demo](https://employee-management-system-2026.vercel.app) | [Repository](https://github.com/Sg-2003/EMS-2026) |
 
 ---
 
