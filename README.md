@@ -100,7 +100,7 @@ I enjoy building high-performance, full-featured web applications and solving al
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
 Here are some of my key projects:
 
