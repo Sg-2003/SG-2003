@@ -39,9 +39,9 @@ I am a Software Web Developer and Information Technology student currently pursu
 I enjoy building high-performance, full-featured web applications and solving algorithmic problems. Currently focusing on the **MERN Stack** and exploring cross-platform mobile development.
 
 - 🔭 **Current Projects & Focus:**
-  - [ai-interview-coach](https://github.com/Sg-2003/ai-interview-coach) — AI-powered mock interviewer and coding simulator with speech feedback and grading.
-  - [pdf-ai-chat](https://github.com/Sg-2003/pdf-ai-chat) — Next.js PDF assistant with Gemini API enabling RAG-based semantic document discussions.
-  - [Full-Stack-Job-Portal](https://github.com/Sg-2003/Full-Stack-Job-Portal) — Premium MERN recruitment platform with recruiter and candidate dashboards.
+  - [Uber MERN Clone](https://github.com/Sg-2003/UberDemo) — High-performance Uber clone featuring real-time GPS tracking (Leaflet.js & OpenStreetMap), dynamic path retraction, and socket-based real-time communication.
+  - [Tomato (Food Delivery)](https://github.com/Sg-2003/Food-del) — A premium, full-stack food delivery application featuring Stripe checkout sessions, cart counters, live order status tracking, and a dedicated admin portal.
+  - [EMS-2026](https://github.com/Sg-2003/EMS-2026) — A modern Employee Management System covering attendance, leave, payslips, and profiles.
 - 🌱 **Learning:** React Native for cross-platform mobile app development.
 - 👨‍💻 **Portfolio Website:** Check out my work at [sg-2003.github.io/PORTFOLIO/](https://sg-2003.github.io/PORTFOLIO/)
 - 📄 **Resume / Experience:** Explore my credentials [here](https://sg-2003.github.io/PORTFOLIO/resume.html)
@@ -70,6 +70,7 @@ I enjoy building high-performance, full-featured web applications and solving al
       <h4>🌐 Frontend & App Development</h4>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
       <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -105,11 +106,11 @@ Here are some of my key projects:
 
 | S.No. | Project Name | Description | Tech Stack | Live Demo | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | **AI Interview Coach** | AI-powered tech interview coach featuring mock interviews, interactive coding rounds, resume scanning, real-time voice interaction, and detailed grading sheets. | Next.js, React, Tailwind CSS, Gemini API, MongoDB | [Live Demo](https://ai-interview-coach-rho-liard.vercel.app) | [Repository](https://github.com/Sg-2003/ai-interview-coach) |
-| 2 | **PDF AI Chat** | AI-powered PDF assistant that enables users to upload documents and have context-aware, semantic conversations about their contents. | Next.js, React, Tailwind CSS, Gemini API, MongoDB, Vector Embedding (RAG) | [Live Demo](https://pdf-chat-ai-one.vercel.app) | [Repository](https://github.com/Sg-2003/pdf-ai-chat) |
-| 3 | **Full-Stack Job Portal** | A clean, premium, and fully-featured Job Portal application with recruiter job/applicant tracking and candidate resume submissions. | React, Node.js, Express, MongoDB, Tailwind CSS | [Live Demo](https://full-stack-job-portal-client-hazel.vercel.app) | [Repository](https://github.com/Sg-2003/Full-Stack-Job-Portal) |
-| 4 | **Uber MERN Clone** | High-performance Uber clone featuring real-time GPS tracking (Leaflet.js & OpenStreetMap), dynamic path retraction, and socket-based real-time communication. | React, Node.js, Express, MongoDB, Leaflet.js | [Live Demo](https://frontend-eight-gamma-89.vercel.app) | [Repository](https://github.com/Sg-2003/UberDemo) |
-| 5 | **EMS-2026** | A modern Employee Management System covering attendance, leave, payslips, and profiles. | React, Node.js, Express, MongoDB, Tailwind CSS | [Live Demo](https://employee-management-system-2026.vercel.app) | [Repository](https://github.com/Sg-2003/EMS-2026) |
+| 1 | **AI Portfolio Builder** | AI-powered portfolio creator featuring drag-and-drop section editors, Gemini AI writing assistants, live visitor analytics, and AI chatbots. | Next.js 16, React 19, Gemini API, MongoDB, Tailwind CSS | [Live Demo](https://portfolio-builder-ten-chi.vercel.app) | [Repository](https://github.com/Sg-2003/portfolio-builder) |
+| 2 | **Tarun Construction** | A premium full-stack construction company website featuring an interactive 3D hero scene (Three.js), day/night lighting, GSAP scroll animations, and a JWT-secured admin panel. | Angular 19, Three.js, GSAP, Express, MongoDB | - | [Repository](https://github.com/Sg-2003/Tarun_Construction) |
+| 3 | **AI Interview Coach** | AI-powered tech interview coach featuring mock interviews, interactive coding rounds, resume scanning, real-time voice interaction, and detailed grading sheets. | Next.js, React, Tailwind CSS, Gemini API, MongoDB | [Live Demo](https://ai-interview-coach-rho-liard.vercel.app) | [Repository](https://github.com/Sg-2003/ai-interview-coach) |
+| 4 | **PDF AI Chat** | AI-powered PDF assistant that enables users to upload documents and have context-aware, semantic conversations about their contents. | Next.js, React, Tailwind CSS, Gemini API, MongoDB, Vector Embedding (RAG) | [Live Demo](https://pdf-chat-ai-one.vercel.app) | [Repository](https://github.com/Sg-2003/pdf-ai-chat) |
+| 5 | **Full-Stack Job Portal** | A clean, premium, and fully-featured Job Portal application with recruiter job/applicant tracking and candidate resume submissions. | React, Node.js, Express, MongoDB, Tailwind CSS | [Live Demo](https://full-stack-job-portal-client-hazel.vercel.app) | [Repository](https://github.com/Sg-2003/Full-Stack-Job-Portal) |
 
 ---
 
