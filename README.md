@@ -149,7 +149,7 @@ Here is a visual summary of my GitHub contributions, stats, and activity:
 
 <div align="center">
   <a href="https://github.com/Sg-2003">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sg-2003&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=79c0ff&point=58a6ff&area=true&hide_border=true" alt="Sukumar's Activity Graph" width="100%" />
+    <img src="https://raw.githubusercontent.com/Sg-2003/SG-2003/main/activity-graph.svg" alt="Sukumar's Activity Graph" width="100%" />
   </a>
 </div>
 
