@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sukumar Gope</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h3 align="center">Full-Stack Developer | Data Annotator at Shaip.ai | B.Tech Graduate</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sukumar-gope-9b20a81b4/" target="_blank">
@@ -34,18 +34,20 @@
 
 ### 💫 About Me
 
-I am a Software Web Developer and Information Technology student currently pursuing my **B.Tech (3rd Year)** at the **University College of Engineering and Technology (UCET), Hazaribagh**. 
+I am a **B.Tech graduate** in Information Technology from the **University College of Engineering and Technology (UCET), Hazaribagh**, and currently working as a **Data Annotator at [Shaip.ai](https://www.shaip.com/)**.
 
-I enjoy building high-performance, full-featured web applications and solving algorithmic problems. Currently focusing on the **MERN Stack** and exploring cross-platform mobile development.
+I enjoy building high-performance, full-featured web applications and solving algorithmic problems. Passionate about the **MERN Stack**, cross-platform mobile development, and AI/ML data pipelines.
 
-- 🔭 **Current Projects & Focus:**
+- 💼 **Current Role:** Data Annotator at **Shaip.ai** — contributing to high-quality training data for AI/ML models.
+- 🎓 **Education:** B.Tech in Information Technology — UCET, Hazaribagh (Completed).
+- 🔭 **Key Projects:**
   - [Uber MERN Clone](https://github.com/Sg-2003/UberDemo) — High-performance Uber clone featuring real-time GPS tracking (Leaflet.js & OpenStreetMap), dynamic path retraction, and socket-based real-time communication.
   - [Tomato (Food Delivery)](https://github.com/Sg-2003/Food-del) — A premium, full-stack food delivery application featuring Stripe checkout sessions, cart counters, live order status tracking, and a dedicated admin portal.
   - [EMS-2026](https://github.com/Sg-2003/EMS-2026) — A modern Employee Management System covering attendance, leave, payslips, and profiles.
 - 🌱 **Learning:** React Native for cross-platform mobile app development.
 - 👨‍💻 **Portfolio Website:** Check out my work at [sg-2003.github.io/PORTFOLIO/](https://sg-2003.github.io/PORTFOLIO/)
 - 📄 **Resume / Experience:** Explore my credentials [here](https://sg-2003.github.io/PORTFOLIO/resume.html)
-- 💬 **Ask me about:** MERN Stack, Socket.io, Leaflet Maps, or basic Data Structures.
+- 💬 **Ask me about:** MERN Stack, Socket.io, Leaflet Maps, Data Annotation, or Data Structures.
 - 📫 **Reach me:** [sgsukumar321@gmail.com](mailto:sgsukumar321@gmail.com)
 - ⚡ **Fun Fact:** I think I'm funny. Compiler disagrees. 😅
 
