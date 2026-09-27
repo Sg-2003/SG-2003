@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: '0 */6 * * *'  # Runs every 6 hours
   workflow_dispatch:        # Allow manual trigger
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/activity-graph.yml'
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -12,24 +21,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Activity Graph
-        uses: Ashutosh00710/github-readme-activity-graph@v2
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: Sg-2003
-          OUTPUT_FILENAME: activity-graph.svg
-          BG_COLOR: 0d1117
-          COLOR: 58a6ff
-          LINE: 79c0ff
-          POINT: 58a6ff
-          AREA: true
-          HIDE_BORDER: true
-          THEME: tokyo-night
+          python-version: '3.x'
+
+      - name: Generate Activity Graph SVG
+        run: python scripts/generate_graph.py
 
       - name: Commit and push graph
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add activity-graph.svg
-          git diff --staged --quiet || git commit -m "chore: update activity graph [skip ci]"
-          git push
+          git diff --staged --quiet || (git commit -m "chore: update activity graph [skip ci]" && git push)
