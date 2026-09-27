@@ -98,6 +98,17 @@ I enjoy building high-performance, full-featured web applications and solving al
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <h4>🏷️ Data Annotation & AI/ML</h4>
+      <img src="https://img.shields.io/badge/CVAT-0080FF?style=for-the-badge&logo=opencv&logoColor=white" alt="CVAT" />
+      <img src="https://img.shields.io/badge/JEDI-6C3483?style=for-the-badge&logo=probot&logoColor=white" alt="JEDI" />
+      <img src="https://img.shields.io/badge/Bounding_Boxes-FF6F00?style=for-the-badge&logo=target&logoColor=white" alt="Bounding Boxes" />
+      <img src="https://img.shields.io/badge/Polygon_Annotation-00C853?style=for-the-badge&logo=draw.io&logoColor=white" alt="Polygon Annotation" />
+      <img src="https://img.shields.io/badge/Keypoint_Annotation-E91E63?style=for-the-badge&logo=mapbox&logoColor=white" alt="Keypoint Annotation" />
+      <img src="https://img.shields.io/badge/Semantic_Segmentation-3F51B5?style=for-the-badge&logo=databricks&logoColor=white" alt="Semantic Segmentation" />
+    </td>
+  </tr>
 </table>
 
 ---
@@ -114,9 +125,6 @@ Here are some of my key projects:
 | 4 | **Bajrangbali Temple Portal** | Full-stack temple portal with 3D WebGL visualization, online puja booking, AI devotional assistant, live darshan streaming, and donation system. | Angular 18, Three.js, Express, MongoDB (MEAN Stack) | [Live Demo](https://bajrangbali-temple.vercel.app) | [Repository](https://github.com/Sg-2003/Bajrangbali_Temple) |
 | 5 | **Tarun Construction** | A premium full-stack construction company website featuring an interactive 3D hero scene (Three.js), day/night lighting, GSAP scroll animations, and a JWT-secured admin panel. | Angular 19, Three.js, GSAP, Express, MongoDB | [Live Demo](https://tarun-construction.vercel.app/) | [Repository](https://github.com/Sg-2003/Tarun_Construction) |
 | 6 | **School Management System** | Enterprise-grade school portal with RBAC for Admins, Teachers, Students & Parents, financial analytics dashboards, and logistics tracking (hostel, transport, library). | React, Node.js, Express, MySQL, Framer Motion, Recharts | [Live Demo](https://edupro-school-portal.web.app/) | [Repository](https://github.com/Sg-2003/school-management-system) |
-| 7 | **AI Interview Coach** | AI-powered tech interview coach featuring mock interviews, interactive coding rounds, resume scanning, real-time voice interaction, and detailed grading sheets. | Next.js, React, Tailwind CSS, Gemini API, MongoDB | [Live Demo](https://ai-interview-coach-rho-liard.vercel.app) | [Repository](https://github.com/Sg-2003/ai-interview-coach) |
-| 8 | **PDF AI Chat** | AI-powered PDF assistant that enables users to upload documents and have context-aware, semantic conversations about their contents. | Next.js, React, Tailwind CSS, Gemini API, MongoDB, Vector Embedding (RAG) | [Live Demo](https://pdf-chat-ai-one.vercel.app) | [Repository](https://github.com/Sg-2003/pdf-ai-chat) |
-| 9 | **Full-Stack Job Portal** | A clean, premium, and fully-featured Job Portal application with recruiter job/applicant tracking and candidate resume submissions. | React, Node.js, Express, MongoDB, Tailwind CSS | [Live Demo](https://full-stack-job-portal-client-hazel.vercel.app) | [Repository](https://github.com/Sg-2003/Full-Stack-Job-Portal) |
 
 ---
 
